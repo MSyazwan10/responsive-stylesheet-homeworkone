@@ -1,1 +1,1 @@
-# responsive-stylesheet-homeworkone
+# week2-rd-responsive-hw-starter
